@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(184, 179, 179);
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+#p1{
+    
+    font-size: 40px;
+    margin-top: 8%;
+    text-align: center;
+    background-color: black;
+    color: blue;
+    padding: 20px;
+    
+    
+}
